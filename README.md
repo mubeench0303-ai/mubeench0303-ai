@@ -121,8 +121,3 @@ Check out my **GTA-Inspired Interactive 3D Portfolio**: **[mubeench-gold.vercel.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=mubeench0303-ai&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
